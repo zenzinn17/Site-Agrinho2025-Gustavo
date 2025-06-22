@@ -10,7 +10,7 @@ No arquivo html "index.html" vai se deparar com um banner escrito "Festejando a 
 
 No arquivo html "past.html" vai se deparar com um gif de carregando, o qual mostra que as curiosidades nessa pasta atualiza a cada 1 dia, abaixo disso vai haver uma curiosidade e uma imagem em relação ao tema, e mais abaixo vai haver uma fileira de imagem de uma plantação, mercado interno e do Brasíl, com o objetivo de mostrar que todos são essenciais para o desenvolvimento do nosso país, da zona rural e urbana.
 
-*todas as imagens e textos são originais*
+*todas as imagens e textos são originais e utilizei o canva para modificar as imagens*
 
 Enfim, espero que essas instruções ajude a melhor compreensão da utilização do site, e melhor experiência.
 
