@@ -4,7 +4,7 @@ Olá! bem vindo ao meu site "Conexão entre o campo-cidade", nesse meu projeto d
 
 # instruções
 
-No inío do site, vai se deparar com o "header" que contém, ao seu lado direito, Início ( direciona o usuário para o arquivo html "index.html", o qual é a tela inicial que possui as informações principais), Informações ( direciona o usuário ao arquivo html "past.html", o que possui curiosidades sobre o tema) e PDF ( direciona o usuário a um PDF que busca esplicar a finalidade do site).
+No início do site, vai se deparar com o "header" que contém, ao seu lado direito, Início ( direciona o usuário para o arquivo html "index.html", o qual é a tela inicial que possui as informações principais), Informações ( direciona o usuário ao arquivo html "past.html", o que possui curiosidades sobre o tema) e PDF ( direciona o usuário a um PDF que busca esplicar a finalidade do site).
 
 No arquivo html "index.html" vai se deparar com um banner escrito "Festejando a conexão entre o campo-cidade" que tem o objetivo de mostrar o tema do site, abaixo desse banner vai estar um botão  que usei a tag "button" escrito "comece aqui" que ao clicar o usuário acessará um arquivo html "index.html", assim retornará ao início do banner, abaixo desse botão vai estar uma seção com a tag "section" que vão conter informações em relação ao tema e imagens com o objetivo de melhor compreensão das informações apresentadas, e mais abaixo vai estar localizado o "footer" que vai mostrar o tema do agrinho "Festejando a conexão entre o campo-cidade", que me fez inspirar meu site.
 
